@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**AJAUDET/AJAUDET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Cybersecurity Student** at **UMASS Lowell** with a strong interest in **Network Security**, system internals, and secure software design.
 
-Here are some ideas to get you started:
+## 🔐 Areas of Interest
+- Network security & traffic analysis  
+- Linux systems & low-level debugging  
+- Secure coding & vulnerability research  
+- Containers, virtualization, and lab environments  
+- Offensive & defensive security concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Technologies
+- **Languages:** C, C++, Python, MIPS Assembly, x86 Assembly
+- **Networking:** TCP/IP, UDP, DNS, VPNs  
+- **Security Tools:** Wireshark, GDB, Nmap  
+- **Platforms:** Windows, Macos, Linux, Docker, MSYS2
+
+## 🧪 What I’m Working On
+- Security-focused programming projects  
+- Networked applications and protocol analysis  
+- Hands-on labs involving exploitation & defense
+
+## 🎯 Goals
+- Build a strong foundation in network and system security  
+- Develop real-world security tooling  
+- Continue learning through hands-on experimentation 
