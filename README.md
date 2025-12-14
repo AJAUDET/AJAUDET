@@ -1,4 +1,4 @@
-## 👋 Hi. I'm AJ
+## 👋 Hi, I'm AJ
 
 🎓 **Cybersecurity Student** at **UMASS Lowell** with a strong interest in **Network Security**, system internals, and secure software design.
 
