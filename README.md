@@ -11,8 +11,8 @@
 
 ## 🛠️ Tools & Technologies
 - **Languages:** C, C++, Python, MIPS Assembly, x86 Assembly
-- **Networking:** TCP/IP, UDP, DNS, VPNs  
-- **Security Tools:** Wireshark, GDB, Nmap  
+- **Networking:** TCP/IP, UDP, DNS, VPNs
+- **Security Tools:** Wireshark, GDB, Nmap, Falco  
 - **Platforms:** Windows, Macos, Linux, Docker, MSYS2
 
 ## 🧪 What I’m Working On
